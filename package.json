@@ -1,0 +1,28 @@
+{
+  "name": "co-proxy",
+  "version": "0.1.0",
+  "description": "Cache results of co `yieldables`",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxarch/co-proxy.git"
+  },
+  "keywords": [
+    "co",
+    "proxy",
+    "ttl",
+    "cache"
+  ],
+  "author": "Sigalas Alexandros <alxarch@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alxarch/co-proxy/issues"
+  },
+  "homepage": "https://github.com/alxarch/co-proxy#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  }
+}
